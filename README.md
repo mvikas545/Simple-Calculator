@@ -1,2 +1,2 @@
 # Simple-Calculator
-Calculator using Python
+Calculator by using Python's tkinter library.
